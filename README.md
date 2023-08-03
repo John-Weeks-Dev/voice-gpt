@@ -2,7 +2,7 @@
 
 ## Click on the image to go to the Youtube tutorial!
 
-[![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://github.com/John-Weeks-Dev/voice-gpt/assets/108229029/3d8bb440-dcd2-4055-a5b0-de7e12794d00)](https://www.youtube.com/watch?v=8qi_CrIBNNI)
+[![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://user-images.githubusercontent.com/108229029/258213516-51adce2c-c05c-44c0-8415-27310ec41592.png)](https://www.youtube.com/watch?v=8qi_CrIBNNI)
 
 Come and check out my YOUTUBE channel for lots more tutorials -> https://www.youtube.com/@johnweeksdev
 
